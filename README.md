@@ -14,6 +14,9 @@
 - [x] [Limit Promise Concurrency with pool](https://davidwalsh.name/promise-pool)
 - [x] [Small Bundles, Fast Pages: What To Do With Too Much JavaScript](https://calibreapp.com/blog/bundle-size-optimization)
 - [x] [(What (not) to Prefetch/Prerender](https://addyosmani.com/blog/what-not-to-prefetch-prerender/)
+- [x] [Performance in Jira front-end: the story of a single line of code](https://www.atlassian.com/engineering/performance-in-jira-front-end)
+- [x] [Rebuilding Slack’s Emoji Picker in React](https://slack.engineering/rebuilding-slacks-emoji-picker-in-react/)
+- [x] [Case study: Analyzing Notion app performance](https://3perf.com/blog/notion/)
 
 #### \# companies
 * 8th Light https://8thlight.com/blog/
