@@ -18,14 +18,9 @@
 - [x] [Rebuilding Slack’s Emoji Picker in React](https://slack.engineering/rebuilding-slacks-emoji-picker-in-react/)
 - [x] [Case study: Analyzing Notion app performance](https://3perf.com/blog/notion/)
 
-#### \# companies
-* 8th Light https://8thlight.com/blog/
-  - [ ] [Managing Dependencies on the Front End](https://8thlight.com/insights/video-managing-dependencies-on-the-front-end)
-  - [ ] [A maintainable, scalable front-end](https://8thlight.com/insights/a-maintainable-scalable-front-end)
-  - [ ] [How flexbox alleviates some common front end development pains](https://8thlight.com/insights/how-flexbox-alleviates-some-common-front-end-development-pains)
-  - [ ] [Understanding Queuing Theory and Software Performance](https://8thlight.com/insights/video-understanding-queuing-theory-and-software-performance)
-  - [x] [Refactoring React](https://8thlight.com/insights/refactoring-react)
-  
-* 99designs https://99designs.com/tech-blog/
-  - [ ] [Real–world HTTP/2: 400gb of images per day](https://99designs.com/blog/engineering/real-world-http-2-400gb-images-per-day/)
+#### Companies
+* [Airbnb](https://medium.com/airbnb-engineering)
+  - [x] [Faster JavaScript Builds with Metro](https://medium.com/airbnb-engineering/faster-javascript-builds-with-metro-cfc46d617a1f)
 
+* [8th Light](https://8thlight.com/blog/)
+  - [x] [Refactoring React](https://8thlight.com/insights/refactoring-react)
