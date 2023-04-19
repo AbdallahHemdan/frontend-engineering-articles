@@ -24,7 +24,7 @@
   - [ ] [A maintainable, scalable front-end](https://8thlight.com/insights/a-maintainable-scalable-front-end)
   - [ ] [How flexbox alleviates some common front end development pains](https://8thlight.com/insights/how-flexbox-alleviates-some-common-front-end-development-pains)
   - [ ] [Understanding Queuing Theory and Software Performance](https://8thlight.com/insights/video-understanding-queuing-theory-and-software-performance)
-  - [ ] [Refactoring React](https://8thlight.com/insights/refactoring-react)
+  - [x] [Refactoring React](https://8thlight.com/insights/refactoring-react)
   
 * 99designs https://99designs.com/tech-blog/
   - [ ] [Real–world HTTP/2: 400gb of images per day](https://99designs.com/blog/engineering/real-world-http-2-400gb-images-per-day/)
