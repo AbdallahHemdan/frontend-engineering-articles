@@ -20,7 +20,7 @@
 
 #### Companies
 * [Airbnb](https://medium.com/airbnb-engineering)
-  - [x] [Faster JavaScript Builds with Metro](https://medium.com/airbnb-engineering/faster-javascript-builds-with-metro-cfc46d617a1f)
+  - [x] [Faster JavaScript Builds with Metro](https://medium.com/airbnb-engineering/faster-javascript-builds-with-metro-cfc46d617a1f) | [Twitter Summary](https://twitter.com/AbdallahHemda17/status/1648859539117166593?s=20)
 
 * [8th Light](https://8thlight.com/blog/)
   - [x] [Refactoring React](https://8thlight.com/insights/refactoring-react)
